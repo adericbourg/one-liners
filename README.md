@@ -14,6 +14,8 @@ python -m SimpleHTTPServer
 python -m http.server
 ```
 
+[Improved scripted version (better case and encoding support)](https://github.com/MattiSG/DotFiles/blob/master/functions/serve.sh)
+
 ## SMTP
 
 Run a SMTP server that dumps messages to the standard output:
