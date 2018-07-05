@@ -14,7 +14,10 @@ python -m SimpleHTTPServer
 python -m http.server
 ```
 
-[Improved scripted version (better case and encoding support)](https://github.com/MattiSG/DotFiles/blob/master/functions/serve.sh)
+Going further:
+
+* [Improved scripted version (better case and encoding support)](https://github.com/MattiSG/DotFiles/blob/master/functions/serve.sh)
+* [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255)
 
 ## SMTP
 
