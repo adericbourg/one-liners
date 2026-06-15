@@ -1,3 +1,5 @@
+> ⚠️ **DEPRECATED** — This repository has been migrated to https://github.com/adericbourg/knowledge-base
+
 # one-liners
 
 This aims at listing day-to-day useful one-liners.
